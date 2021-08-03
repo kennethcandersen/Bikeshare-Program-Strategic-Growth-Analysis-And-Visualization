@@ -10,13 +10,14 @@
 * [Gustavo Maldonado](https://github.com/MBGUS) 🚴‍♂️
 
 ## Project summary 
+
+### Project Goal
+Applies data analysis & visualization tools to observe the evolution of Mexico City's bike-share program "ECOBICI" and provide recommendations for its future development and growth.
+
 ### What is Ecobici? 
 ECOBICI is the public bicycle system of Mexico City that has integrated bikes as an essential part of mobility, aimed at inhabitants of the capital and tourists. Since its launch in 2010, Ecobici have provided over 71 million rides in central Mexico City: convenient, sustainable transportation that reduces traffic and pollution and promotes health.
 
-Become a rider! Don't have your ecobici membership yet? [Sign up here](https://www.ecobici.cdmx.gob.mx/es/registro/inicio)
-
-### Project Goal
-Apply data analysis tools to observe the evolution of the ECOBICI network and provide recommendations for its future development and growth.
+What can you do? Become a rider! Do you live in Mexico City and don't have your ecobici membership yet? [Sign up here](https://www.ecobici.cdmx.gob.mx/es/registro/inicio)
 
 ## How to run the app
 2 options:
