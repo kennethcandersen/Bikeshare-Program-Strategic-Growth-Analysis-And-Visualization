@@ -1,6 +1,8 @@
 # Bikeshare Program Strategic Growth Analysis & Visualization
 
-<p text-align: center>![image](https://github.com/mgeffroy/P2-Ecobici_insights_and_recommendations/blob/main/static/Images/ecobici_tour_gif.gif)</p>
+<p align="center">
+  <img width="900" src="https://github.com/mgeffroy/P2-Ecobici_insights_and_recommendations/blob/main/static/Images/ecobici_tour_gif.gif)">
+</p>
 
 ## Team Members
 * [Kenneth Andersen](https://github.com/kennethcandersen) 🚴‍♂️ 
