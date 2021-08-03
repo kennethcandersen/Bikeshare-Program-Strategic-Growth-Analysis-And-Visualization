@@ -1,11 +1,8 @@
 # Bikeshare Program Strategic Growth Analysis & Visualization
 
 <p align="center">
-  <img src="https://github.com/kennethcandersen/Bikeshare-Program-Strategic-Growth-Analysis-And-Visualization/blob/main/static/Images/ecobici_tour_gif.gif)">
+<img src="https://github.com/kennethcandersen/Bikeshare-Program-Strategic-Growth-Analysis-And-Visualization/blob/main/static/Images/ecobici_tour_gif.gif" width="900"/>
 </p>
-
-<img src="https://github.com/kennethcandersen/Bikeshare-Program-Strategic-Growth-Analysis-And-Visualization/blob/main/static/Images/ecobici_tour_gif.gif" width="40"/>
-
 ## Team Members
 * [Kenneth Andersen](https://github.com/kennethcandersen) 🚴‍♂️ 
 * [Uriel Arriaga](https://github.com/Momoyactly) 🚴‍♂️
