@@ -14,7 +14,7 @@
 ## Project summary 
 
 ### Project Goal
-Applies data analysis & visualization tools to observe the evolution of Mexico City's bike-share program "ECOBICI" and provide recommendations for its future development and growth.
+Apply data analysis & visualization tools to observe the evolution of Mexico City's bike-share program "ECOBICI" and provide recommendations for its future development and growth.
 
 ### What is Ecobici? 
 ECOBICI is the public bicycle system of Mexico City that has integrated bikes as an essential part of mobility, aimed at inhabitants of the capital and tourists. Since its launch in 2010, Ecobici have provided over 71 million rides in central Mexico City: convenient, sustainable transportation that reduces traffic and pollution and promotes health.
